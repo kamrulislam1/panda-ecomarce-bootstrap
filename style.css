@@ -1,0 +1,13 @@
+.sliderb{
+    background-color: pink;
+}
+.categories img{
+    width: 40px;
+}
+.buy-btn-bag {
+    background-color: #e03176;
+    border: 0px;
+    padding: 8px 29px;
+    border-radius: 8px;
+    color:white;
+  }
